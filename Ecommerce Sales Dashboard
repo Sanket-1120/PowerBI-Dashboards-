@@ -1,1 +1,64 @@
+# 🛒 Ecommerce Sales Dashboard – Power BI Project
+
+## 📌 Overview
+This Power BI dashboard analyzes a year’s worth of ecommerce sales data to provide actionable insights into sales performance, profit trends, product category performance, and customer payment preferences across different Indian states.
+
+---
+
+## 📊 Key Insights
+- 💰 **Total Profit**: 37K  
+- 💳 **Top Payment Mode**: Cash on Delivery (44%)  
+- 🛍️ **Top Selling Category**: Clothing (63% of total quantity)  
+- 📈 **Best Performing Month**: December (10.3K profit)  
+- 🔻 **Lowest Performing Month**: May (-3.7K loss)
+
+---
+
+## 📂 Dashboard Features
+- 💡 **Monthly Profit Trend** bar chart
+- 🌐 **State-wise Filter** for regional performance
+- 📦 **Quantity Breakdown** by Product Category and Payment Mode (Donut Charts)
+- 🔍 **Sub-Category Profit Analysis** (Bar Chart)
+- 📅 **Quarter Selector** for seasonal insights
+
+---
+
+## 📁 Dataset Description
+- **Type**: Ecommerce sales transactional data
+- **Time Period**: 1 year
+- **Columns Used**: State, Category, Sub-Category, Quantity, Profit, Payment Mode, Month
+
+---
+
+## 🛠 Tools Used
+- **Power BI Desktop**
+- Power Query for data cleaning and transformation
+- DAX for calculated measures and KPIs
+- Slicers for interactivity and drill-down analysis
+
+---
+
+## 📥 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Use filters and slicers to explore the data interactively.
+
+---
+
+## 🔐 Notes
+- Data is fictional or sample-based and used for educational purposes.
+- All visuals are interactive and can be filtered by state, quarter, and more.
+
+---
+
+## 👨‍💻 Author
+**SANKET SALVE** 
+📧 [sanketsalve200411@gmail.com]  
+🔗 [LinkedIn](www.linkedin.com/in/sanket-salve-152933287) 
+
+---
+
+## ⭐ Support
+If you liked this project, feel free to give it a ⭐ and share it!
+
 
